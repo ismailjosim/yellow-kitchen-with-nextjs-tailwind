@@ -6,7 +6,7 @@ import leaf from '../../assets/rucola.png'
 
 const Banner = () => {
     return (
-        <section className='w-11/12 mx-auto grid grid-cols-2 justify-between gap-5 py-10'>
+        <section className='w-11/12 mx-auto grid grid-cols-2 justify-between gap-5'>
             <div className='relative flex flex-col justify-center'>
                 <h1 className='text-7xl mb-20 w-8/12'>Your Food court at home</h1>
                 <div className='flex gap-10'>
